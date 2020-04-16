@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85f0ba1f-4377-43e3-af20-29f562266a78" name="Default Changelist" comment="" />
+    <list default="true" id="85f0ba1f-4377-43e3-af20-29f562266a78" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5656.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,8 +19,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JupyterTrust" id="774df279-09b4-4fbb-87e2-ad916c7ff857" />
   <component name="ProjectId" id="1aNg82mJ5cix0sU1dZraJguY496" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,6 +34,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -35,7 +47,7 @@
       <recent name="C:\Users\Administrator\PycharmProjects\untitled4" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.434234234">
+  <component name="RunManager" selected="Python.56">
     <configuration name="432423" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled4" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -80,6 +92,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="56" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/56.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="565656" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled4" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,6 +138,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.56" />
         <item itemvalue="Python.434234234" />
         <item itemvalue="Python.432423" />
         <item itemvalue="Python.565656" />
@@ -124,7 +159,8 @@
       <workItem from="1586604357664" duration="3000" />
       <workItem from="1586851920213" duration="4022000" />
       <workItem from="1586863168744" duration="1260000" />
-      <workItem from="1586867477373" duration="2928000" />
+      <workItem from="1586867477373" duration="6228000" />
+      <workItem from="1587001326005" duration="2377000" />
     </task>
     <servers />
   </component>
@@ -132,51 +168,41 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="172" key="GridCell.Tab.0.bottom" timestamp="1586870540770">
+    <state width="1237" height="172" key="GridCell.Tab.0.bottom" timestamp="1587001445380">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="172" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586870540770" />
-    <state width="1237" height="172" key="GridCell.Tab.0.center" timestamp="1586870540770">
+    <state width="1237" height="172" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587001445380" />
+    <state width="1237" height="172" key="GridCell.Tab.0.center" timestamp="1587001445380">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="172" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586870540770" />
-    <state width="1237" height="172" key="GridCell.Tab.0.left" timestamp="1586870540769">
+    <state width="1237" height="172" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587001445380" />
+    <state width="1237" height="172" key="GridCell.Tab.0.left" timestamp="1587001445380">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="172" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586870540769" />
-    <state width="1237" height="172" key="GridCell.Tab.0.right" timestamp="1586870540770">
+    <state width="1237" height="172" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587001445380" />
+    <state width="1237" height="172" key="GridCell.Tab.0.right" timestamp="1587001445380">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="172" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586870540770" />
-    <state width="1237" height="181" key="GridCell.Tab.1.bottom" timestamp="1586870481248">
+    <state width="1237" height="172" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587001445380" />
+    <state width="1237" height="181" key="GridCell.Tab.1.bottom" timestamp="1586959541335">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="181" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586870481248" />
-    <state width="1237" height="181" key="GridCell.Tab.1.center" timestamp="1586870481248">
+    <state width="1237" height="181" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586959541335" />
+    <state width="1237" height="181" key="GridCell.Tab.1.center" timestamp="1586959541335">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="181" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1586870481248" />
-    <state width="1237" height="181" key="GridCell.Tab.1.left" timestamp="1586870481248">
+    <state width="1237" height="181" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1586959541335" />
+    <state width="1237" height="181" key="GridCell.Tab.1.left" timestamp="1586959541335">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="181" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1586870481248" />
-    <state width="1237" height="181" key="GridCell.Tab.1.right" timestamp="1586870481248">
+    <state width="1237" height="181" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1586959541335" />
+    <state width="1237" height="181" key="GridCell.Tab.1.right" timestamp="1586959541335">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="181" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1586870481248" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/432423.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state width="1237" height="181" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1586959541335" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/untitled4$56.coverage" NAME="56 Coverage Results" MODIFIED="1587001445369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled4$432423.coverage" NAME="432423 Coverage Results" MODIFIED="1586869556967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled4$565656.coverage" NAME="565656 Coverage Results" MODIFIED="1586853676669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled4$434234234.coverage" NAME="434234234 Coverage Results" MODIFIED="1586870540762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
