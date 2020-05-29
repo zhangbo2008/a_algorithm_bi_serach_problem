@@ -2,481 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85f0ba1f-4377-43e3-af20-29f562266a78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/568.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/.github/ISSUE_TEMPLATE/bug_report.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/.github/ISSUE_TEMPLATE/others.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/.github/ISSUE_TEMPLATE/translate.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/4keyboard/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/4keyboard/title.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/BST/BST_example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/BST/bst_deletion_case_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/BST/bst_deletion_case_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/BST/bst_deletion_case_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/BST/假BST.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/Chrome插件/baidumonkey.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/Chrome插件/baidu广告.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/Chrome插件/csdnBlock.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/Chrome插件/githubzip.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/Chrome插件/listen1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/Chrome插件/monkey.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/Chrome插件/oneTab.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/Chrome插件/pin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/Chrome插件/tree.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/Chrome插件/youhou优化.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/LCS/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/LCS/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/LCS/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/LCS/dp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/LCS/lcs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/LRU算法/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/LRU算法/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/LRU算法/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/LRU算法/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/algo4/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/algo4/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/algo4/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/algo4/title.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/backtrack/ink-image (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/backtrack/ink-image (2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/backtrack/ink-image (3).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/backtrack/ink-image (4).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/backtrack/ink-image (5).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/backtrack/ink-image (6).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/backtrack/ink-image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/backtrack/nqueens.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/backtrack/permutation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/backtrack/代码.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/backtrack/代码1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/backtrack/代码2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/backtrack/代码3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/backtrack/全排列.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/backtracking/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/backtracking/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/backtracking/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/backtracking/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/backtracking/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/backtracking/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/backtracking/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/calculator/1.1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/calculator/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/calculator/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/calculator/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/calculator/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/calculator/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/calculator/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/dupmissing/1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/dupmissing/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/dupmissing/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/editDistance/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/editDistance/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/editDistance/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/editDistance/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/editDistance/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/editDistance/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/editDistance/delete.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/editDistance/dp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/editDistance/edit.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/editDistance/insert.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/editDistance/replace.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/editDistance/title.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/floodfill/floodfill.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/floodfill/floodfill.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/floodfill/leetcode.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/floodfill/ppt1.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/floodfill/ppt2.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/floodfill/ppt3.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/floodfill/ppt4.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/floodfill/ppt5.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/floodfill/xiaoxiaole.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/floodfill/扫雷.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/floodfill/抠图.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/floodfill/抠图.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/group.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/heap/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/heap/delete.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/heap/insert.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/heap/sink.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/heap/swim.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/intersection/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/intersection/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/intersection/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/intersection/4.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/intersection/title.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/interval/1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/interval/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/interval/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/interval/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/interval/title1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/interval/title2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/kgroup/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/kgroup/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/kgroup/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/kgroup/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/kgroup/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/kgroup/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/kgroup/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/kgroup/8.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/kgroup/title.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/kmp/1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/kmp/2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/kmp/3.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/kmp/A.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/kmp/allstate.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/kmp/back.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/kmp/dfa.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/kmp/exp1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/kmp/exp2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/kmp/exp3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/kmp/exp4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/kmp/exp5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/kmp/exp6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/kmp/exp7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/kmp/forward.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/kmp/kmp.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/kmp/shadow.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/kmp/shadow1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/kmp/shadow2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/kmp/state.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/kmp/state2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/kmp/state4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/kmp/txt1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/kmp/txt2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/kmp/txt3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/kmp/txt4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/kmp/z.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/labuladong.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/labuladong.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/linux-fs/application.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/linux-fs/apt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/linux-fs/bin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/linux-fs/boot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/linux-fs/cpu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/linux-fs/desktop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/linux-fs/dev.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/linux-fs/etc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/linux-fs/home.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/linux-fs/linux-filesystem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/linux-fs/log.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/linux-fs/opt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/linux-fs/proc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/linux-fs/root.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/linux-fs/sbin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/linux-fs/tmp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/linux-fs/usr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/linux-fs/usrbin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/linuxProcess/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/linuxProcess/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/linuxProcess/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/linuxProcess/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/linuxProcess/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/linuxProcess/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/linuxProcess/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/linuxProcess/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/linuxshell/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/mergeInterval/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/mergeInterval/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/mergeInterval/3.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/mergeInterval/title.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/online/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/online/10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/online/11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/online/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/online/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/online/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/online/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/online/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/online/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/online/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/online/9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/others/leetcode.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/pancakeSort/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/pancakeSort/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/pancakeSort/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/pancakeSort/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/pancakeSort/title.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/pay.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/prime/1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/qrcode.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/redis入侵/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/redis入侵/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/redis入侵/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/redis入侵/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/redis入侵/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/redis入侵/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/robber/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/robber/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/robber/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/robber/title.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/robber/title1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/session/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/session/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/session/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/session/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/unionfind/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/unionfind/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/unionfind/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/unionfind/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/unionfind/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/unionfind/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/unionfind/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/unionfind/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/unionfind/9.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/unionfind应用/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/unionfind应用/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/unionfind应用/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/youtube/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/youtube/1573133096614.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/youtube/1573133131308.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/youtube/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/youtube/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/youtube/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/二分应用/title1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/二分应用/title2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/二分查找/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/二分查找/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/二分查找/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/二分查找/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/二分查找/binarySearch1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/二分查找/binarySearch2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/二分查找/poem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/位操作/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/位操作/title.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/信封嵌套/0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/信封嵌套/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/信封嵌套/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/信封嵌套/title.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/前缀和/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/前缀和/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/前缀和/title.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/动态规划详解/coindp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/动态规划详解/coinfunc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/动态规划详解/cointree.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/动态规划详解/fibdp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/动态规划详解/fibfunc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/动态规划详解/fibmemo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/动态规划详解/fibtree.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/动态规划详解/img_20190514_013033.441.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/动态规划详解/img_20190514_013830.397.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/动态规划详解/ink-image (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/动态规划详解/ink-image (2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/动态规划详解/ink-image (3).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/动态规划详解/ink-image (4).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/动态规划详解/ink-image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/动态规划详解进阶/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/动态规划详解进阶/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/动态规划详解进阶/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/动态规划详解进阶/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/动态规划详解进阶/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/动态规划详解进阶/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/动态规划详解进阶/coin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/动态规划详解进阶/fib.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/单调栈/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/单调栈/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/单调栈/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/单调队列/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/单调队列/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/单调队列/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/单调队列/title.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/博弈问题/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/博弈问题/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/博弈问题/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/博弈问题/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/双指针/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/双指针/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/双指针/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/双指针/center.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/双指针/title.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/反转链表/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/反转链表/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/反转链表/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/反转链表/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/反转链表/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/反转链表/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/反转链表/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/反转链表/title.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/回文/title.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/回文链表/1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/回文链表/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/回文链表/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/回文链表/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/回文链表/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/子序列/1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/子序列/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/子序列/2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/子序列/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/子序列/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/子集/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/子集/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/子集/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/字符串乘法/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/字符串乘法/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/字符串乘法/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/字符串乘法/4.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/字符串乘法/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/字符串乘法/title.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/密码技术/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/密码技术/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/密码技术/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/密码技术/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/密码技术/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/密码技术/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/密码技术/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/座位调度/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/座位调度/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/座位调度/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/座位调度/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/座位调度/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/座位调度/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/座位调度/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/扔鸡蛋/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/扔鸡蛋/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/扔鸡蛋/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/扔鸡蛋/dp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/接雨水/0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/接雨水/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/接雨水/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/接雨水/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/接雨水/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/接雨水/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/接雨水/title.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/数组交换/ink-image (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/数组交换/ink-image (2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/数组交换/ink-image (3).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/数组交换/ink-image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/最优子结构/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/最长回文子序列/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/最长回文子序列/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/最长回文子序列/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/最长回文子序列/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/最长回文子序列/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/最长递增子序列/1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/最长递增子序列/2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/最长递增子序列/3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/最长递增子序列/gif1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/最长递增子序列/gif2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/最长递增子序列/poker1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/最长递增子序列/poker2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/最长递增子序列/poker3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/最长递增子序列/poker4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/最长递增子序列/title.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/有序数组去重/1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/有序数组去重/2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/有序数组去重/title.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/栈队列/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/栈队列/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/栈队列/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/栈队列/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/栈队列/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/栈队列/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/概率问题/p.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/概率问题/p.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/概率问题/sanmen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/概率问题/sanmen.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/概率问题/tree.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/正则/example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/正则/title.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/洗牌算法/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/洗牌算法/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/洗牌算法/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/洗牌算法/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/洗牌算法/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/洗牌算法/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/滑动窗口/0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/滑动窗口/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/滑动窗口/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/滑动窗口/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/滑动窗口/title1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/滑动窗口/title2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/滑动窗口/title3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/缺失元素/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/缺失元素/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/缺失元素/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/缺失元素/title.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/缺失元素/xor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/股票问题/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/股票问题/title.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/设计Twitter/design.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/设计Twitter/merge.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/设计Twitter/tweet.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/pictures/设计Twitter/user.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/动态规划系列/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/动态规划系列/动态规划之KMP字符匹配算法.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/动态规划系列/动态规划之博弈问题.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/动态规划系列/动态规划之四键键盘.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/动态规划系列/动态规划之正则表达.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/动态规划系列/动态规划设计：最长递增子序列.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/动态规划系列/动态规划详解进阶.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/动态规划系列/团灭股票问题.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/动态规划系列/子序列问题模板.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/动态规划系列/抢房子.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/动态规划系列/最优子结构.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/动态规划系列/最长公共子序列.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/动态规划系列/编辑距离.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/动态规划系列/贪心算法之区间调度问题.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/动态规划系列/高楼扔鸡蛋进阶.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/动态规划系列/高楼扔鸡蛋问题.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/技术/linuxshell.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/技术/linux进程.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/技术/redis入侵.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/技术/session和cookie.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/技术/在线练习平台.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/技术/密码技术.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/数据结构系列/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/数据结构系列/二叉堆详解实现优先级队列.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/数据结构系列/二叉搜索树操作集锦.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/数据结构系列/单调栈.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/数据结构系列/单调队列.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/数据结构系列/实现计算器.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/数据结构系列/设计Twitter.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/数据结构系列/递归反转链表的一部分.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/数据结构系列/队列实现栈栈实现队列.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/算法思维系列/FloodFill算法详解及应用.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/算法思维系列/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/算法思维系列/UnionFind算法应用.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/算法思维系列/UnionFind算法详解.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/算法思维系列/twoSum问题的核心思想.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/算法思维系列/为什么推荐算法4.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/算法思维系列/二分查找详解.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/算法思维系列/信封嵌套问题.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/算法思维系列/几个反直觉的概率问题.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/算法思维系列/前缀和技巧.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/算法思维系列/区间交集问题.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/算法思维系列/区间调度问题之区间合并.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/算法思维系列/双指针技巧.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/算法思维系列/回溯算法详解修订版.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/算法思维系列/字符串乘法.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/算法思维系列/学习数据结构和算法的高效方法.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/算法思维系列/常用的位操作.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/算法思维系列/洗牌算法.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/算法思维系列/滑动窗口技巧.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/算法思维系列/烧饼排序.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/算法思维系列/算法学习之路.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/算法思维系列/递归详解.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/高频面试系列/LRU算法.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/高频面试系列/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/高频面试系列/koko偷香蕉.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/高频面试系列/k个一组反转链表.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/高频面试系列/一行代码解决的智力题.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/高频面试系列/二分查找判定子序列.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/高频面试系列/判断回文链表.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/高频面试系列/合法括号判定.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/高频面试系列/如何去除有序数组的重复元素.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/高频面试系列/子集排列组合.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/高频面试系列/座位调度.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/高频面试系列/打印素数.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/高频面试系列/接雨水.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/高频面试系列/最长回文子串.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/高频面试系列/水塘抽样.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/高频面试系列/消失的元素.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucking-algorithm-master/高频面试系列/缺失和重复的元素.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kmp的实现.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/untitled4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/算法.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/222222222222222222.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3333333333333333333.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/44444444444444444444.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8888888888888888888.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python算法实现/555555555555555555.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python算法实现/66666666666666666.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python算法实现/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python算法实现/单调队列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python算法实现/博弈问题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python算法实现/股票问题.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kmp的实现.py" beforeDir="false" afterPath="$PROJECT_DIR$/python算法实现/kmp的实现.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -513,17 +50,19 @@
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled8" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PycharmProjects\untitled4\python算法实现" />
+      <recent name="C:\Users\Administrator\PycharmProjects\untitled4" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\PycharmProjects\untitled4" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\PycharmProjects\untitled4" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.kmp的实现 (1)">
-    <configuration name="432423" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.8888888888888888888">
+    <configuration name="单调队列" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="算法" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -531,12 +70,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python算法实现" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/432423.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python算法实现/单调队列.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -545,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="434234234" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="44444444444444444444" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="算法" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -558,7 +97,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/434234234.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/44444444444444444444.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -567,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="56" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="555555555555555555" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="算法" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -575,12 +114,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python算法实现" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/56.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python算法实现/555555555555555555.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -589,7 +128,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="kmp的实现 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="66666666666666666" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="算法" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python算法实现" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python算法实现/66666666666666666.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="8888888888888888888" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="算法" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -602,7 +163,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kmp的实现.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8888888888888888888.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -624,7 +185,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Administrator\PycharmProjects\untitled4\kmp的实现.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Administrator\PycharmProjects\untitled4\python算法实现\kmp的实现.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -635,13 +196,16 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.kmp的实现 (1)" />
-        <item itemvalue="Python.kmp的实现" />
-        <item itemvalue="Python.432423" />
-        <item itemvalue="Python.56" />
-        <item itemvalue="Python.434234234" />
+        <item itemvalue="Python.8888888888888888888" />
+        <item itemvalue="Python.555555555555555555" />
+        <item itemvalue="Python.66666666666666666" />
+        <item itemvalue="Python.单调队列" />
+        <item itemvalue="Python.44444444444444444444" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -666,7 +230,13 @@
       <workItem from="1587476028856" duration="11000" />
       <workItem from="1587525781215" duration="7826000" />
       <workItem from="1589882209310" duration="8246000" />
-      <workItem from="1590296727770" duration="1031000" />
+      <workItem from="1590296727770" duration="6660000" />
+      <workItem from="1590328834974" duration="4241000" />
+      <workItem from="1590375043222" duration="1634000" />
+      <workItem from="1590389925234" duration="21896000" />
+      <workItem from="1590554003687" duration="5838000" />
+      <workItem from="1590583414229" duration="81000" />
+      <workItem from="1590584653993" duration="23775000" />
     </task>
     <servers />
   </component>
@@ -674,69 +244,85 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1277" height="438" key="DebuggerActiveHint" timestamp="1589887724105">
+    <state x="396" y="49" key="#xdebugger.evaluate" timestamp="1590732545655">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1277" height="438" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1589887724105" />
+    <state x="396" y="49" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1590732545655" />
+    <state width="1277" height="438" key="DebuggerActiveHint" timestamp="1590732376067">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1277" height="438" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1590732376067" />
     <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1587394447650">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1587394447650" />
-    <state width="1237" height="190" key="GridCell.Tab.0.bottom" timestamp="1590296776463">
+    <state width="1237" height="137" key="GridCell.Tab.0.bottom" timestamp="1590733691041">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="190" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590296776463" />
-    <state width="1237" height="190" key="GridCell.Tab.0.center" timestamp="1590296776463">
+    <state width="1237" height="137" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590733691041" />
+    <state width="1237" height="137" key="GridCell.Tab.0.center" timestamp="1590733691041">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="190" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1590296776463" />
-    <state width="1237" height="190" key="GridCell.Tab.0.left" timestamp="1590296776463">
+    <state width="1237" height="137" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1590733691041" />
+    <state width="1237" height="137" key="GridCell.Tab.0.left" timestamp="1590733691041">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="190" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1590296776463" />
-    <state width="1237" height="190" key="GridCell.Tab.0.right" timestamp="1590296776463">
+    <state width="1237" height="137" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1590733691041" />
+    <state width="1237" height="137" key="GridCell.Tab.0.right" timestamp="1590733691041">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="190" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1590296776463" />
-    <state width="1237" height="142" key="GridCell.Tab.1.bottom" timestamp="1589898466525">
+    <state width="1237" height="137" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1590733691041" />
+    <state width="1237" height="145" key="GridCell.Tab.1.bottom" timestamp="1590732573358">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="142" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589898466525" />
-    <state width="1237" height="142" key="GridCell.Tab.1.center" timestamp="1589898466525">
+    <state width="1237" height="145" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590732573358" />
+    <state width="1237" height="145" key="GridCell.Tab.1.center" timestamp="1590732573358">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="142" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1589898466525" />
-    <state width="1237" height="142" key="GridCell.Tab.1.left" timestamp="1589898466525">
+    <state width="1237" height="145" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1590732573358" />
+    <state width="1237" height="145" key="GridCell.Tab.1.left" timestamp="1590732573358">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="142" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1589898466525" />
-    <state width="1237" height="142" key="GridCell.Tab.1.right" timestamp="1589898466525">
+    <state width="1237" height="145" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1590732573358" />
+    <state width="1237" height="145" key="GridCell.Tab.1.right" timestamp="1590732573358">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="142" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1589898466525" />
-    <state width="647" height="338" key="XDebugger.FullValuePopup" timestamp="1589887736051">
+    <state width="1237" height="145" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1590732573358" />
+    <state x="285" y="0" key="SettingsEditor" timestamp="1590332838382">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="647" height="338" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1589887736051" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1587135564048">
+    <state x="285" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1590332838382" />
+    <state width="647" height="338" key="XDebugger.FullValuePopup" timestamp="1590732376058">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1587135564048" />
+    <state width="647" height="338" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1590732376058" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1590554287335">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1590554287335" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
       <configuration name="PythonConfigurationType">
         <watch expression="dp" />
+        <watch expression="tasks" />
+        <watch expression="tmp" />
       </configuration>
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/untitled4$56.coverage" NAME="56 Coverage Results" MODIFIED="1587001445369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/untitled4$432423.coverage" NAME="432423 Coverage Results" MODIFIED="1586869556967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$44444444444444444444.coverage" NAME="44444444444444444444 Coverage Results" MODIFIED="1590556474367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$432423.coverage" NAME="432423 Coverage Results" MODIFIED="1587432223943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled4$565656.coverage" NAME="565656 Coverage Results" MODIFIED="1586853676669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/$kmp__1_.coverage" NAME="kmp的实现 (1) Coverage Results" MODIFIED="1590296773270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled4$434234234.coverage" NAME="434234234 Coverage Results" MODIFIED="1586870540762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$8888888888888888888.coverage" NAME="8888888888888888888 Coverage Results" MODIFIED="1590732789314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled4$432423.coverage" NAME="432423 Coverage Results" MODIFIED="1586869556967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$66666666666666666.coverage" NAME="66666666666666666 Coverage Results" MODIFIED="1590670684047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python算法实现" />
+    <SUITE FILE_PATH="coverage/$3333333333333333333.coverage" NAME="3333333333333333333 Coverage Results" MODIFIED="1590492526422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$555555555555555555.coverage" NAME="555555555555555555 Coverage Results" MODIFIED="1590671169550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python算法实现" />
+    <SUITE FILE_PATH="coverage/$kmp__1_.coverage" NAME="kmp的实现 (1) Coverage Results" MODIFIED="1590296773270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$.coverage" NAME="单调队列 Coverage Results" MODIFIED="1590589194874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python算法实现" />
     <SUITE FILE_PATH="coverage/$11111111111111111111.coverage" NAME="11111111111111111111 Coverage Results" MODIFIED="1589890962717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
